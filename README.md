@@ -22,7 +22,7 @@ I have a proven track record of:
 ## Connect with me
 
 [//]: # (Replace the placeholders below with your actual links)
-- **LinkedIn:** [linkedin.com/in/jesus-javier-angulo-moran-6b12b6135](https://linkedin.com/in/jesus-javier-angulo-moran-6b12b6135)
+- **LinkedIn:** [linkedin.com/in/jesus-javier-angulo-moran](https://linkedin.com/in/jesus-javier-angulo-moran)
 - **GitHub:** [github.com/javiangulo](https://github.com/javiangulo)
 - **Email:** jjavierangulomoran@gmail.com
 - **Resume Page:** [jjavierangulomoran.dev/](https://jjavierangulomoran.dev/)
